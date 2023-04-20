@@ -1,0 +1,15 @@
+C:\VSCode\MyConcoleVSC\bin\Debug\net6.0\MyConcoleVSC.exe
+C:\VSCode\MyConcoleVSC\bin\Debug\net6.0\MyConcoleVSC.deps.json
+C:\VSCode\MyConcoleVSC\bin\Debug\net6.0\MyConcoleVSC.runtimeconfig.json
+C:\VSCode\MyConcoleVSC\bin\Debug\net6.0\MyConcoleVSC.dll
+C:\VSCode\MyConcoleVSC\bin\Debug\net6.0\MyConcoleVSC.pdb
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\MyConcoleVSC.csproj.AssemblyReference.cache
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\MyConcoleVSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\MyConcoleVSC.AssemblyInfoInputs.cache
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\MyConcoleVSC.AssemblyInfo.cs
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\MyConcoleVSC.csproj.CoreCompileInputs.cache
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\MyConcoleVSC.dll
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\refint\MyConcoleVSC.dll
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\MyConcoleVSC.pdb
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\MyConcoleVSC.genruntimeconfig.cache
+C:\VSCode\MyConcoleVSC\obj\Debug\net6.0\ref\MyConcoleVSC.dll
